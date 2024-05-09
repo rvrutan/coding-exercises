@@ -32,4 +32,4 @@
 
 - Create an object literal called personAccount. It has firstName, lastName, incomes, expenses properties and it has totalIncome, totalExpense, accountInfo,addIncome, addExpense and accountBalance methods. Incomes is a set of incomes and its description and expenses is a set of incomes and its description.
 
-- You are given an array of users like [{name: 'Rommel', roomNumber: 1}, {name: Paula, roomNumber: 2}] with diffent room numbers, convert that to an object with rooms numbers as keys and user names as an array. e.g {1: ['Rommel',...], 2: ['Paula',...]}
+- You are given an array of users like [{name: 'Rommel', roomNumber: 1}, {name: Paula, roomNumber: 2}] with different room numbers, convert that to an object with rooms numbers as keys and user names as an array. e.g {1: ['Rommel',...], 2: ['Paula',...]}
