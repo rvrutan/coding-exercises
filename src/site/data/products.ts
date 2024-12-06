@@ -1,4 +1,6 @@
-export const products = [
+import { Product } from "../types/types";
+
+export const products: Product[] = [
   {
     id: 'bf0c09a7-dfdc-4755-8e79-bb56725c94cf',
     name: 'Recycled Fresh Chicken',

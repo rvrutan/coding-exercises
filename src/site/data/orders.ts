@@ -1,4 +1,6 @@
-export const orders = [
+import { Order } from "../types/types";
+
+export const orders: Order[] = [
   {
     user: 'c12f95dd-9446-48bc-b124-9e0142d53820',
     items: [
